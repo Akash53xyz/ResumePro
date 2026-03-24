@@ -24,6 +24,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     goAts.addEventListener('click', () => {
-        window.location.href = 'ats-checker.html';
+        window.location.href = 'ATS.html';
     });
 });
